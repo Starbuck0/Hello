@@ -1,0 +1,8 @@
+## Interface: 120000
+## Title: Hello Addon
+## Notes: Says hello when you log in
+## Author: Tillie
+## Version: 1.0
+
+HelloAddon.lua
+Hello.ogg
