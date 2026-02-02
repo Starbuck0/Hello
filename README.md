@@ -1,5 +1,5 @@
 # Hello
-Every time you log in, there will be someone to greet you! Open to suggestions
+Every time you log in, there will be someone to greet you! Open to suggestions.
 
 A very lightweight, simple addon that will greet you with "hello" every time you log into the game or relog (includes relogging to a different character). 
 
